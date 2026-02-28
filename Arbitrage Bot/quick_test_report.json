@@ -1,0 +1,11 @@
+{
+  "test_timestamp": 1753443239.2017016,
+  "detection_rate_per_second": 6026298.850574712,
+  "trade_success_rate": 89.0,
+  "total_profit_simulation": 267.7953528620913,
+  "projected_daily_trades": 782141.0870916498,
+  "storage_performance": 1020238.8655104473,
+  "safety_accuracy": 100.0,
+  "overall_status": "PASS",
+  "ready_for_deployment": true
+}

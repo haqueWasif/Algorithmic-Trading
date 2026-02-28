@@ -1,0 +1,4 @@
+venv/
+dashboard/venv/
+.env
+.env.example

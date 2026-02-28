@@ -1,0 +1,13 @@
+diff --git a/arbitrage_bot.py b/arbitrage_bot.py
+index 493c60f..d1b1580 100644
+--- a/arbitrage_bot.py
++++ b/arbitrage_bot.py
+@@ -117,6 +117,8 @@ class TradingEngine:
+             buy_order = await self.exchange_manager.place_order(
+                 opportunity.buy_exchange, opportunity.symbol, 'limit', 'buy', trade.amount, opportunity.buy_price
+             )
++            if buy_order is None or 'price' not in buy_order or buy_order['price'] is None:
++                raise ValueError("Buy order failed or returned no price.")
+             trade.buy_order_id = buy_order['id']
+             trade.buy_price = float(buy_order['price'])
+             trade.status = TradeStatus.BUY_FILLED

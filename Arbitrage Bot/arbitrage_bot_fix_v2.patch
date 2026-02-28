@@ -1,0 +1,42 @@
+diff --git a/arbitrage_bot.py b/arbitrage_bot.py
+index 493c60f..45db79d 100644
+--- a/arbitrage_bot.py
++++ b/arbitrage_bot.py
+@@ -117,6 +117,8 @@ class TradingEngine:
+             buy_order = await self.exchange_manager.place_order(
+                 opportunity.buy_exchange, opportunity.symbol, 'limit', 'buy', trade.amount, opportunity.buy_price
+             )
++            if not buy_order or not isinstance(buy_order, dict) or 'price' not in buy_order or buy_order['price'] is None:
++                raise ValueError(f"Buy order failed or returned invalid price: {buy_order}")
+             trade.buy_order_id = buy_order['id']
+             trade.buy_price = float(buy_order['price'])
+             trade.status = TradeStatus.BUY_FILLED
+diff --git a/exchange_manager.py b/exchange_manager.py
+index a13cce7..ea7ce71 100644
+--- a/exchange_manager.py
++++ b/exchange_manager.py
+@@ -156,18 +156,20 @@ class ExchangeManager:
+             # Directly call the order creation method without await initially
+             # This handles cases where the method might return a dict directly (e.g., testnets)
+             order = order_creation_method(*args)
+-
+             # If the result is an awaitable, then await it
+             if asyncio.iscoroutine(order):
+                 order = await order
+             
+-            logger.info(f"DEBUG: Type of order after call: {type(order)}")
++            # Ensure 'price' key is present in the order dictionary
++            if order and 'price' not in order and price is not None:
++                order['price'] = price
+ 
+-        except Exception as e:
++            logger.info(f"DEBUG: Type of order after call: {type(order)}")
++            logger.info(f"DEBUG: Order object before return: {order}")  except Exception as e:
+             logger.error(f"Failed to place {side} {order_type} order for {amount} {symbol} on {exchange_id}: {e}")
+             return None
+         
+-        logger.info(f"Placed {side} {order_type} order {order.get('id', 'N/A')} for {amount} {symbol} on {exchange_id}.")
++        logger.info(f"Placed {side} {order_type} order {order.get(\'id\', \'N/A\')} for {amount} {symbol} on {exchange_id}.")
+         return order
+ 
+     async def get_balance(self, exchange_id: str, currency: str) -> float:

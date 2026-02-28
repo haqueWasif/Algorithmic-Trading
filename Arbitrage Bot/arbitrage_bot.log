@@ -1,0 +1,1024 @@
+2025-07-25 19:08:53,548 - __main__ - INFO - Starting Crypto Arbitrage Bot
+2025-07-25 19:08:53,548 - __main__ - INFO - Initializing arbitrage bot...
+2025-07-25 19:08:53,548 - exchange_manager - INFO - Initializing exchange connections...
+2025-07-25 19:08:53,804 - exchange_manager - ERROR - Failed to initialize binance: aiodns needs a SelectorEventLoop on Windows. See more: https://github.com/saghul/aiodns/issues/86
+2025-07-25 19:08:53,804 - exchange_manager - ERROR - Failed to initialize kraken: kraken does not have a sandbox URL
+2025-07-25 19:08:53,804 - exchange_manager - ERROR - Failed to initialize coinbase: coinbase does not have a sandbox URL
+2025-07-25 19:08:53,811 - exchange_manager - INFO - Initialized 0 exchanges
+2025-07-25 19:08:53,811 - __main__ - INFO - Bot initialization completed successfully
+2025-07-25 19:08:53,811 - __main__ - INFO - Starting arbitrage bot...
+2025-07-25 19:08:53,811 - exchange_manager - INFO - Starting real-time data feeds...
+2025-07-25 19:08:53,811 - exchange_manager - INFO - Started 1 data feed tasks
+2025-07-25 19:08:53,811 - price_monitor - INFO - Starting price monitoring...
+2025-07-25 19:08:53,811 - trading_engine - INFO - Trading enabled
+2025-07-25 19:08:53,811 - __main__ - INFO - Arbitrage bot started successfully
+2025-07-25 19:08:53,811 - __main__ - INFO - Bot is now monitoring for arbitrage opportunities...
+2025-07-25 19:08:55,339 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,364 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,381 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,402 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,423 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,439 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,459 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,471 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,487 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,502 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,519 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,541 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,554 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,568 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,584 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,603 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,619 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,634 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,653 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,666 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,682 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,698 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,715 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,741 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,757 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,773 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,791 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,804 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,819 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,839 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,860 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,874 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,888 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,901 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,916 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,929 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,943 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,957 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,971 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:55,986 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,000 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,015 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,030 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,048 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,062 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,076 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,089 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,104 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,117 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,131 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,146 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,159 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,179 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,194 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,208 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,221 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,236 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,249 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,263 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,276 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,291 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,311 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,326 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,339 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,359 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,381 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,395 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,410 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,422 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,436 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,450 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,466 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,478 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,493 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,507 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,520 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,535 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,550 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,562 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,575 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,596 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,610 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,626 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,641 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,658 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,673 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,688 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,707 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,721 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,735 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,749 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,763 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,778 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,790 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,805 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,818 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,832 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,846 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,859 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,875 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,888 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,903 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,916 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,929 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,943 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,957 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,972 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,986 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:56,999 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,013 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,028 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,040 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,054 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,068 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,082 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,097 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,110 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,124 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,145 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,160 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,176 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07-25 19:08:57,195 - price_monitor - INFO - Average scan time: 0.000s, Opportunities detected: 0, Alerts generated: 0
+2025-07
+(Content truncated due to size limit. Use line ranges to read in chunks)2025-07-29 19:39:09,611 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-07-29 19:39:09,612 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-07-29 19:39:09,612 - arbitrage_bot - INFO - Initializing bot components...
+2025-07-29 19:39:09,612 - exchange_manager - INFO - Initializing exchanges...
+2025-07-29 19:39:09,623 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-07-29 19:39:11,933 - exchange_manager - INFO - Loaded 2058 markets for binance
+2025-07-29 19:39:11,945 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-07-29 19:39:15,269 - exchange_manager - INFO - Loaded 2468 markets for bybit
+2025-07-29 19:39:15,269 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-07-29 19:39:16,434 - safety_manager - INFO - Initial balances: {'binance': {'free': {'ETH': 2.5043, 'BTC': 1.00922, 'LTC': 5.0, 'BNB': 1.0, 'USDT': 3203.4336987, 'TRX': 1778.0, 'XRP': 228.0, 'NEO': 92.0, 'QTUM': 260.0, 'GAS': 179.0, 'LRC': 6693.0, 'ZRX': 2325.0, 'KNC': 1778.0, 'IOTA': 3197.0, 'LINK': 38.0, 'XVG': 18446.0, 'MTL': 755.0, 'ETC': 30.0, 'ZEC': 13.0, 'DASH': 25.0, 'REQ': 3688.0, 'POWR': 3344.0, 'ENJ': 7633.0, 'STORJ': 2101.0, 'KMD': 16758.0, 'BAT': 4035.0, 'LSK': 1351.0, 'MANA': 2011.0, 'ADX': 6560.0, 'ADA': 893.0, 'XLM': 2162.0, 'ICX': 4036.0, 'RLC': 549.0, 'PIVX': 3937.0, 'STEEM': 3920.0, 'ZIL': 18446.0, 'ONT': 4255.0, 'WAN': 4678.0, 'SYS': 14921.0, 'TUSD': 10000.0, 'ZEN': 70.0, 'THETA': 736.0, 'IOTX': 18446.0, 'DATA': 18446.0, 'SC': 18446.0, 'DENT': 18446.0, 'ARDR': 6439.0, 'HOT': 18446.0, 'VET': 18446.0, 'RVN': 18446.0, 'USDC': 10000.0, 'ONG': 3056.0, 'FET': 723.0, 'IOST': 18446.0, 'CELR': 18446.0, 'ATOM': 124.0, 'PHB': 1188.0, 'TFUEL': 15484.0, 'ONE': 18446.0, 'ALGO': 2852.0, 'DOGE': 3092.0, 'DUSK': 9495.0, 'ANKR': 18446.0, 'WIN': 18446.0, 'COS': 18446.0, 'FUN': 18446.0, 'CVC': 5755.0, 'CHZ': 14444.0, 'BAND': 892.0, 'XTZ': 946.0, 'HBAR': 3387.0, 'NKN': 18446.0, 'STX': 758.0, 'KAVA': 1253.0, 'ARPA': 18446.0, 'BCH': 1.0, 'FTT': 615.0, 'TRY': 18466.0, 'EUR': 425.0, 'OGN': 9633.0, 'BNT': 858.0, 'LTO': 18446.0, 'MBL': 18446.0, 'COTI': 9775.0, 'ZAR': 18466.0, 'SOL': 3.0, 'CTSI': 8840.0, 'HIVE': 2463.0, 'CHR': 6441.0, 'MDT': 18446.0, 'UAH': 18466.0, 'COMP': 11.0, 'SXP': 2943.0, 'SNX': 881.0, 'VTHO': 18446.0, 'DGB': 18446.0, 'MKR': 1.0, 'RUNE': 376.0, 'DCR': 32.0, 'FIO': 18446.0, 'AVA': 1008.0, 'YFI': 1.0, 'DAI': 10000.0, 'JST': 14604.0, 'CRV': 973.0, 'SAND': 2097.0, 'NMR': 66.0, 'DOT': 150.0, 'LUNA': 3466.0, 'RSR': 18446.0, 'PAXG': 1.0, 'TRB': 13.0, 'WBTC': 1.0, 'SUSHI': 844.0, 'KSM': 39.0, 'EGLD': 37.0, 'DIA': 1332.0, 'UMA': 459.0, 'BEL': 2240.0, 'UNI': 70.0, 'OXT': 9504.0, 'SUN': 18446.0, 'AVAX': 28.0, 'FLM': 15050.0, 'SCRT': 3211.0, 'CAKE': 218.0, 'UTK': 18446.0, 'XVS': 87.0, 'ALPHA': 18446.0, 'BRL': 97.0, 'AAVE': 1.0, 'NEAR': 233.0, 'FIL': 222.0, 'INJ': 47.0, 'AUDIO': 9021.0, 'CTK': 1593.0, 'AXS': 228.0, 'SLP': 18446.0, 'STRAX': 11018.0, 'ROSE': 18446.0, 'SKL': 18446.0, 'GLM': 2259.0, 'GRT': 6047.0, 'JUV': 552.0, 'PSG': 347.0, '1INCH': 2911.0, 'OG': 124.0, 'ATM': 499.0, 'ASR': 218.0, 'CELO': 1914.0, 'RIF': 9523.0, 'TRU': 18446.0, 'CKB': 18446.0, 'TWT': 731.0, 'SFP': 1126.0, 'DODO': 13404.0, 'ACM': 655.0, 'AUCTION': 57.0, 'PHA': 5186.0, 'FIS': 6206.0, 'OM': 2466.0, 'POND': 18446.0, 'DEGO': 497.0, 'ALICE': 1331.0, 'PERP': 2234.0, 'SUPER': 765.0, 'CFX': 6605.0, 'TKO': 3851.0, 'PUNDIX': 1815.0, 'TLM': 18446.0, 'BAR': 486.0, 'FORTH': 213.0, 'BAKE': 5002.0, 'SHIB': 18446.0, 'ICP': 103.0, 'AR': 96.0, 'MASK': 424.0, 'LPT': 82.0, 'ATA': 11907.0, 'GTC': 2173.0, 'MLN': 71.0, 'DEXE': 67.0, 'C98': 11900.0, 'QNT': 4.0, 'FLOW': 1552.0, 'MINA': 2945.0, 'RAY': 244.0, 'FARM': 19.0, 'QUICK': 18446.0, 'MBOX': 10443.0, 'GHST': 1388.0, 'WAXP': 18446.0, 'GNO': 4.0, 'XEC': 18446.0, 'DYDX': 969.0, 'IDEX': 18446.0, 'USDP': 500.0, 'GALA': 18446.0, 'ILV': 47.0, 'YGG': 3431.0, 'DF': 17362.0, 'FIDA': 6302.0, 'AGLD': 745.0, 'RAD': 807.0, 'RARE': 9999.0, 'SSV': 69.0, 'LAZIO': 691.0, 'CHESS': 6254.0, 'MOVR': 93.0, 'CITY': 606.0, 'ENS': 27.0, 'QI': 18446.0, 'PORTO': 680.0, 'JASMY': 18446.0, 'AMP': 18446.0, 'PYR': 557.0, 'ALCX': 68.0, 'SANTOS': 269.0, 'BICO': 5506.0, 'FLUX': 2536.0, 'FXS': 252.0, 'VOXEL': 11063.0, 'HIGH': 980.0, 'CVX': 222.0, 'PEOPLE': 18446.0, 'SPELL': 18446.0, 'JOE': 3508.0, 'ACH': 18446.0, 'IMX': 1146.0, 'GLMR': 8051.0, 'LOKA': 10618.0, 'API3': 825.0, 'BTTC': 18446.0, 'ACA': 18446.0, 'XNO': 581.0, 'WOO': 7552.0, 'ALPINE': 737.0, 'T': 18446.0, 'ASTR': 18446.0, 'GMT': 11600.0, 'KDA': 1296.0, 'APE': 826.0, 'BSW': 18446.0, 'BIFI': 3.0, 'NEXO': 416.0, 'REI': 18446.0, 'LDO': 693.0, 'OP': 923.0, 'LEVER': 18446.0, 'STG': 3335.0, 'LUNC': 18446.0, 'GMX': 36.0, 'POLYX': 4098.0, 'APT': 109.0, 'PLN': 18466.0, 'OSMO': 3544.0, 'HFT': 3618.0, 'HOOK': 5363.0, 'MAGIC': 4017.0, 'HIFI': 3781.0, 'RPL': 100.0, 'RON': 18466.0, 'GNS': 308.0, 'SYN': 5413.0, 'LQTY': 381.0, 'USTC': 18446.0, 'PROM': 77.0, 'QKC': 18446.0, 'ID': 3266.0, 'ARB': 1466.0, 'RDNT': 18446.0, 'ARS': 18466.0, 'EDU': 3825.0, 'SUI': 180.0, 'PEPE': 18446.0, 'FLOKI': 18446.0, 'WBETH': 1.0, 'MAV': 9992.0, 'PENDLE': 146.0, 'ARKM': 1102.0, 'WLD': 562.0, 'FDUSD': 10000.0, 'SEI': 1789.0, 'CYBER': 418.0, 'ARK': 1390.0, 'IQ': 18446.0, 'NTRN': 5868.0, 'TIA': 345.0, 'MEME': 18446.0, 'ORDI': 68.0, 'BEAMX': 18446.0, 'VIC': 3152.0, 'BLUR': 7124.0, 'VANRY': 18446.0, 'AEUR': 440.0, 'JTO': 239.0, '1000SATS': 18446.0, 'BONK': 18446.0, 'ACE': 994.0, 'NFP': 9058.0, 'AI': 4623.0, 'XAI': 10036.0, 'MANTA': 2717.0, 'ALT': 18446.0, 'JUP': 1137.0, 'PYTH': 4873.0, 'RONIN': 1136.0, 'DYM': 2222.0, 'PIXEL': 15685.0, 'STRK': 4382.0, 'PORTAL': 13621.0, 'AXL': 1566.0, 'WIF': 618.0, 'METIS': 32.0, 'JPY': 18466.0, 'AEVO': 6104.0, 'BOME': 18446.0, 'ETHFI': 528.0, 'ENA': 1911.0, 'W': 7028.0, 'TNSR': 4371.0, 'SAGA': 2429.0, 'MXN': 18466.0, 'TAO': 1.0, 'OMNI': 324.0, 'REZ': 18446.0, 'BB': 6188.0, 'NOT': 18446.0, 'COP': 18466.0, 'IO': 705.0, 'ZK': 10960.0, 'LISTA': 2136.0, 'ZRO': 260.0, 'G': 18446.0, 'BANANA': 29.0, 'RENDER': 158.0, 'TON': 177.0, 'DOGS': 18446.0, 'EURI': 425.0, 'SLF': 6134.0, 'POL': 2761.0, 'NEIRO': 18446.0, 'TURBO': 18446.0, '1MBABYDOGE': 18446.0, 'CATI': 6421.0, 'HMSTR': 18446.0, 'EIGEN': 454.0, 'BNSOL': 3.0, 'SCR': 2016.0, 'LUMIA': 2154.0, 'KAIA': 3124.0, 'COW': 1832.0, 'CETUS': 5609.0, 'PNUT': 2283.0, 'ACT': 12690.0, 'USUAL': 7928.0, 'THE': 1932.0, 'ACX': 3775.0, 'ORCA': 261.0, 'MOVE': 2962.0, 'ME': 694.0, 'VELODROME': 11169.0, 'VANA': 115.0, '1000CAT': 18446.0, 'PENGU': 18446.0, 'BIO': 9799.0, 'D': 16359.0, 'AIXBT': 3897.0, 'CGPT': 5444.0, 'COOKIE': 3081.0, 'S': 1585.0, 'SOLV': 11136.0, 'TRUMP': 57.0, 'ANIME': 18446.0, 'BERA': 296.0, '1000CHEEMS': 18446.0, 'TST': 12018.0, 'LAYER': 792.0, 'HEI': 1827.0, 'KAITO': 323.0, 'SHELL': 3440.0, 'RED': 1694.0, 'GPS': 18446.0, 'EPIC': 586.0, 'BMT': 3640.0, 'FORM': 171.0, 'XUSD': 500.0, 'CZK': 18466.0, 'NIL': 1751.0, 'PARTI': 2389.0, 'MUBARAK': 13228.0, 'TUT': 8069.0, 'BROCCOLI714': 11845.0, 'BANANAS31': 18446.0, 'GUN': 18446.0, 'BABY': 10689.0, 'ONDO': 652.0, 'BIGTIME': 9865.0, 'VIRTUAL': 337.0, 'KERNEL': 4553.0, 'WCT': 1635.0, 'HYPER': 4856.0, 'INIT': 1219.0, 'SIGN': 7507.0, 'STO': 7201.0, 'SYRUP': 907.0, 'KMNO': 8451.0, 'SXT': 6754.0, 'NXPC': 538.0, 'AWE': 8766.0, 'HAEDAL': 4201.0, 'USD1': 500.0, 'HUMA': 15115.0, 'A': 1037.0, 'SOPH': 16098.0, 'RESOLV': 3634.0, 'HOME': 18446.0, 'SPK': 14060.0, 'NEWT': 1486.0, 'SAHARA': 6582.0}, 'used': {'ETH': 0.0, 'BTC': 0.0, 'LTC': 0.0, 'BNB': 0.0, 'USDT': 0.0, 'TRX': 0.0, 'XRP': 0.0, 'NEO': 0.0, 'QTUM': 0.0, 'GAS': 0.0, 'LRC': 0.0, 'ZRX': 0.0, 'KNC': 0.0, 'IOTA': 0.0, 'LINK': 0.0, 'XVG': 0.0, 'MTL': 0.0, 'ETC': 0.0, 'ZEC': 0.0, 'DASH': 0.0, 'REQ': 0.0, 'POWR': 0.0, 'ENJ': 0.0, 'STORJ': 0.0, 'KMD': 0.0, 'BAT': 0.0, 'LSK': 0.0, 'MANA': 0.0, 'ADX': 0.0, 'ADA': 0.0, 'XLM': 0.0, 'ICX': 0.0, 'RLC': 0.0, 'PIVX': 0.0, 'STEEM': 0.0, 'ZIL': 0.0, 'ONT': 0.0, 'WAN': 0.0, 'SYS': 0.0, 'TUSD': 0.0, 'ZEN': 0.0, 'THETA': 0.0, 'IOTX': 0.0, 'DATA': 0.0, 'SC': 0.0, 'DENT': 0.0, 'ARDR': 0.0, 'HOT': 0.0, 'VET': 0.0, 'RVN': 0.0, 'USDC': 0.0, 'ONG': 0.0, 'FET': 0.0, 'IOST': 0.0, 'CELR': 0.0, 'ATOM': 0.0, 'PHB': 0.0, 'TFUEL': 0.0, 'ONE': 0.0, 'ALGO': 0.0, 'DOGE': 0.0, 'DUSK': 0.0, 'ANKR': 0.0, 'WIN': 0.0, 'COS': 0.0, 'FUN': 0.0, 'CVC': 0.0, 'CHZ': 0.0, 'BAND': 0.0, 'XTZ': 0.0, 'HBAR': 0.0, 'NKN': 0.0, 'STX': 0.0, 'KAVA': 0.0, 'ARPA': 0.0, 'BCH': 0.0, 'FTT': 0.0, 'TRY': 0.0, 'EUR': 0.0, 'OGN': 0.0, 'BNT': 0.0, 'LTO': 0.0, 'MBL': 0.0, 'COTI': 0.0, 'ZAR': 0.0, 'SOL': 0.0, 'CTSI': 0.0, 'HIVE': 0.0, 'CHR': 0.0, 'MDT': 0.0, 'UAH': 0.0, 'COMP': 0.0, 'SXP': 0.0, 'SNX': 0.0, 'VTHO': 0.0, 'DGB': 0.0, 'MKR': 0.0, 'RUNE': 0.0, 'DCR': 0.0, 'FIO': 0.0, 'AVA': 0.0, 'YFI': 0.0, 'DAI': 0.0, 'JST': 0.0, 'CRV': 0.0, 'SAND': 0.0, 'NMR': 0.0, 'DOT': 0.0, 'LUNA': 0.0, 'RSR': 0.0, 'PAXG': 0.0, 'TRB': 0.0, 'WBTC': 0.0, 'SUSHI': 0.0, 'KSM': 0.0, 'EGLD': 0.0, 'DIA': 0.0, 'UMA': 0.0, 'BEL': 0.0, 'UNI': 0.0, 'OXT': 0.0, 'SUN': 0.0, 'AVAX': 0.0, 'FLM': 0.0, 'SCRT': 0.0, 'CAKE': 0.0, 'UTK': 0.0, 'XVS': 0.0, 'ALPHA': 0.0, 'BRL': 0.0, 'AAVE': 0.0, 'NEAR': 0.0, 'FIL': 0.0, 'INJ': 0.0, 'AUDIO': 0.0, 'CTK': 0.0, 'AXS': 0.0, 'SLP': 0.0, 'STRAX': 0.0, 'ROSE': 0.0, 'SKL': 0.0, 'GLM': 0.0, 'GRT': 0.0, 'JUV': 0.0, 'PSG': 0.0, '1INCH': 0.0, 'OG': 0.0, 'ATM': 0.0, 'ASR': 0.0, 'CELO': 0.0, 'RIF': 0.0, 'TRU': 0.0, 'CKB': 0.0, 'TWT': 0.0, 'SFP': 0.0, 'DODO': 0.0, 'ACM': 0.0, 'AUCTION': 0.0, 'PHA': 0.0, 'FIS': 0.0, 'OM': 0.0, 'POND': 0.0, 'DEGO': 0.0, 'ALICE': 0.0, 'PERP': 0.0, 'SUPER': 0.0, 'CFX': 0.0, 'TKO': 0.0, 'PUNDIX': 0.0, 'TLM': 0.0, 'BAR': 0.0, 'FORTH': 0.0, 'BAKE': 0.0, 'SHIB': 0.0, 'ICP': 0.0, 'AR': 0.0, 'MASK': 0.0, 'LPT': 0.0, 'ATA': 0.0, 'GTC': 0.0, 'MLN': 0.0, 'DEXE': 0.0, 'C98': 0.0, 'QNT': 0.0, 'FLOW': 0.0, 'MINA': 0.0, 'RAY': 0.0, 'FARM': 0.0, 'QUICK': 0.0, 'MBOX': 0.0, 'GHST': 0.0, 'WAXP': 0.0, 'GNO': 0.0, 'XEC': 0.0, 'DYDX': 0.0, 'IDEX': 0.0, 'USDP': 0.0, 'GALA': 0.0, 'ILV': 0.0, 'YGG': 0.0, 'DF': 0.0, 'FIDA': 0.0, 'AGLD': 0.0, 'RAD': 0.0, 'RARE': 0.0, 'SSV': 0.0, 'LAZIO': 0.0, 'CHESS': 0.0, 'MOVR': 0.0, 'CITY': 0.0, 'ENS': 0.0, 'QI': 0.0, 'PORTO': 0.0, 'JASMY': 0.0, 'AMP': 0.0, 'PYR': 0.0, 'ALCX': 0.0, 'SANTOS': 0.0, 'BICO': 0.0, 'FLUX': 0.0, 'FXS': 0.0, 'VOXEL': 0.0, 'HIGH': 0.0, 'CVX': 0.0, 'PEOPLE': 0.0, 'SPELL': 0.0, 'JOE': 0.0, 'ACH': 0.0, 'IMX': 0.0, 'GLMR': 0.0, 'LOKA': 0.0, 'API3': 0.0, 'BTTC': 0.0, 'ACA': 0.0, 'XNO': 0.0, 'WOO': 0.0, 'ALPINE': 0.0, 'T': 0.0, 'ASTR': 0.0, 'GMT': 0.0, 'KDA': 0.0, 'APE': 0.0, 'BSW': 0.0, 'BIFI': 0.0, 'NEXO': 0.0, 'REI': 0.0, 'LDO': 0.0, 'OP': 0.0, 'LEVER': 0.0, 'STG': 0.0, 'LUNC': 0.0, 'GMX': 0.0, 'POLYX': 0.0, 'APT': 0.0, 'PLN': 0.0, 'OSMO': 0.0, 'HFT': 0.0, 'HOOK': 0.0, 'MAGIC': 0.0, 'HIFI': 0.0, 'RPL': 0.0, 'RON': 0.0, 'GNS': 0.0, 'SYN': 0.0, 'LQTY': 0.0, 'USTC': 0.0, 'PROM': 0.0, 'QKC': 0.0, 'ID': 0.0, 'ARB': 0.0, 'RDNT': 0.0, 'ARS': 0.0, 'EDU': 0.0, 'SUI': 0.0, 'PEPE': 0.0, 'FLOKI': 0.0, 'WBETH': 0.0, 'MAV': 0.0, 'PENDLE': 0.0, 'ARKM': 0.0, 'WLD': 0.0, 'FDUSD': 0.0, 'SEI': 0.0, 'CYBER': 0.0, 'ARK': 0.0, 'IQ': 0.0, 'NTRN': 0.0, 'TIA': 0.0, 'MEME': 0.0, 'ORDI': 0.0, 'BEAMX': 0.0, 'VIC': 0.0, 'BLUR': 0.0, 'VANRY': 0.0, 'AEUR': 0.0, 'JTO': 0.0, '1000SATS': 0.0, 'BONK': 0.0, 'ACE': 0.0, 'NFP': 0.0, 'AI': 0.0, 'XAI': 0.0, 'MANTA': 0.0, 'ALT': 0.0, 'JUP': 0.0, 'PYTH': 0.0, 'RONIN': 0.0, 'DYM': 0.0, 'PIXEL': 0.0, 'STRK': 0.0, 'PORTAL': 0.0, 'AXL': 0.0, 'WIF': 0.0, 'METIS': 0.0, 'JPY': 0.0, 'AEVO': 0.0, 'BOME': 0.0, 'ETHFI': 0.0, 'ENA': 0.0, 'W': 0.0, 'TNSR': 0.0, 'SAGA': 0.0, 'MXN': 0.0, 'TAO': 0.0, 'OMNI': 0.0, 'REZ': 0.0, 'BB': 0.0, 'NOT': 0.0, 'COP': 0.0, 'IO': 0.0, 'ZK': 0.0, 'LISTA': 0.0, 'ZRO': 0.0, 'G': 0.0, 'BANANA': 0.0, 'RENDER': 0.0, 'TON': 0.0, 'DOGS': 0.0, 'EURI': 0.0, 'SLF': 0.0, 'POL': 0.0, 'NEIRO': 0.0, 'TURBO': 0.0, '1MBABYDOGE': 0.0, 'CATI': 0.0, 'HMSTR': 0.0, 'EIGEN': 0.0, 'BNSOL': 0.0, 'SCR': 0.0, 'LUMIA': 0.0, 'KAIA': 0.0, 'COW': 0.0, 'CETUS': 0.0, 'PNUT': 0.0, 'ACT': 0.0, 'USUAL': 0.0, 'THE': 0.0, 'ACX': 0.0, 'ORCA': 0.0, 'MOVE': 0.0, 'ME': 0.0, 'VELODROME': 0.0, 'VANA': 0.0, '1000CAT': 0.0, 'PENGU': 0.0, 'BIO': 0.0, 'D': 0.0, 'AIXBT': 0.0, 'CGPT': 0.0, 'COOKIE': 0.0, 'S': 0.0, 'SOLV': 0.0, 'TRUMP': 0.0, 'ANIME': 0.0, 'BERA': 0.0, '1000CHEEMS': 0.0, 'TST': 0.0, 'LAYER': 0.0, 'HEI': 0.0, 'KAITO': 0.0, 'SHELL': 0.0, 'RED': 0.0, 'GPS': 0.0, 'EPIC': 0.0, 'BMT': 0.0, 'FORM': 0.0, 'XUSD': 0.0, 'CZK': 0.0, 'NIL': 0.0, 'PARTI': 0.0, 'MUBARAK': 0.0, 'TUT': 0.0, 'BROCCOLI714': 0.0, 'BANANAS31': 0.0, 'GUN': 0.0, 'BABY': 0.0, 'ONDO': 0.0, 'BIGTIME': 0.0, 'VIRTUAL': 0.0, 'KERNEL': 0.0, 'WCT': 0.0, 'HYPER': 0.0, 'INIT': 0.0, 'SIGN': 0.0, 'STO': 0.0, 'SYRUP': 0.0, 'KMNO': 0.0, 'SXT': 0.0, 'NXPC': 0.0, 'AWE': 0.0, 'HAEDAL': 0.0, 'USD1': 0.0, 'HUMA': 0.0, 'A': 0.0, 'SOPH': 0.0, 'RESOLV': 0.0, 'HOME': 0.0, 'SPK': 0.0, 'NEWT': 0.0, 'SAHARA': 0.0}, 'total': {'ETH': 2.5043, 'BTC': 1.00922, 'LTC': 5.0, 'BNB': 1.0, 'USDT': 3203.4336987, 'TRX': 1778.0, 'XRP': 228.0, 'NEO': 92.0, 'QTUM': 260.0, 'GAS': 179.0, 'LRC': 6693.0, 'ZRX': 2325.0, 'KNC': 1778.0, 'IOTA': 3197.0, 'LINK': 38.0, 'XVG': 18446.0, 'MTL': 755.0, 'ETC': 30.0, 'ZEC': 13.0, 'DASH': 25.0, 'REQ': 3688.0, 'POWR': 3344.0, 'ENJ': 7633.0, 'STORJ': 2101.0, 'KMD': 16758.0, 'BAT': 4035.0, 'LSK': 1351.0, 'MANA': 2011.0, 'ADX': 6560.0, 'ADA': 893.0, 'XLM': 2162.0, 'ICX': 4036.0, 'RLC': 549.0, 'PIVX': 3937.0, 'STEEM': 3920.0, 'ZIL': 18446.0, 'ONT': 4255.0, 'WAN': 4678.0, 'SYS': 14921.0, 'TUSD': 10000.0, 'ZEN': 70.0, 'THETA': 736.0, 'IOTX': 18446.0, 'DATA': 18446.0, 'SC': 18446.0, 'DENT': 18446.0, 'ARDR': 6439.0, 'HOT': 18446.0, 'VET': 18446.0, 'RVN': 18446.0, 'USDC': 10000.0, 'ONG': 3056.0, 'FET': 723.0, 'IOST': 18446.0, 'CELR': 18446.0, 'ATOM': 124.0, 'PHB': 1188.0, 'TFUEL': 15484.0, 'ONE': 18446.0, 'ALGO': 2852.0, 'DOGE': 3092.0, 'DUSK': 9495.0, 'ANKR': 18446.0, 'WIN': 18446.0, 'COS': 18446.0, 'FUN': 18446.0, 'CVC': 5755.0, 'CHZ': 14444.0, 'BAND': 892.0, 'XTZ': 946.0, 'HBAR': 3387.0, 'NKN': 18446.0, 'STX': 758.0, 'KAVA': 1253.0, 'ARPA': 18446.0, 'BCH': 1.0, 'FTT': 615.0, 'TRY': 18466.0, 'EUR': 425.0, 'OGN': 9633.0, 'BNT': 858.0, 'LTO': 18446.0, 'MBL': 18446.0, 'COTI': 9775.0, 'ZAR': 18466.0, 'SOL': 3.0, 'CTSI': 8840.0, 'HIVE': 2463.0, 'CHR': 6441.0, 'MDT': 18446.0, 'UAH': 18466.0, 'COMP': 11.0, 'SXP': 2943.0, 'SNX': 881.0, 'VTHO': 18446.0, 'DGB': 18446.0, 'MKR': 1.0, 'RUNE': 376.0, 'DCR': 32.0, 'FIO': 18446.0, 'AVA': 1008.0, 'YFI': 1.0, 'DAI': 10000.0, 'JST': 14604.0, 'CRV': 973.0, 'SAND': 2097.0, 'NMR': 66.0, 'DOT': 150.0, 'LUNA': 3466.0, 'RSR': 18446.0, 'PAXG': 1.0, 'TRB': 13.0, 'WBTC': 1.0, 'SUSHI': 844.0, 'KSM': 39.0, 'EGLD': 37.0, 'DIA': 1332.0, 'UMA': 459.0, 'BEL': 2240.0, 'UNI': 70.0, 'OXT': 9504.0, 'SUN': 18446.0, 'AVAX': 28.0, 'FLM': 15050.0, 'SCRT': 3211.0, 'CAKE': 218.0, 'UTK': 18446.0, 'XVS': 87.0, 'ALPHA': 18446.0, 'BRL': 97.0, 'AAVE': 1.0, 'NEAR': 233.0, 'FIL': 222.0, 'INJ': 47.0, 'AUDIO': 9021.0, 'CTK': 1593.0, 'AXS': 228.0, 'SLP': 18446.0, 'STRAX': 11018.0, 'ROSE': 18446.0, 'SKL': 18446.0, 'GLM': 2259.0, 'GRT': 6047.0, 'JUV': 552.0, 'PSG': 347.0, '1INCH': 2911.0, 'OG': 124.0, 'ATM': 499.0, 'ASR': 218.0, 'CELO': 1914.0, 'RIF': 9523.0, 'TRU': 18446.0, 'CKB': 18446.0, 'TWT': 731.0, 'SFP': 1126.0, 'DODO': 13404.0, 'ACM': 655.0, 'AUCTION': 57.0, 'PHA': 5186.0, 'FIS': 6206.0, 'OM': 2466.0, 'POND': 18446.0, 'DEGO': 497.0, 'ALICE': 1331.0, 'PERP': 2234.0, 'SUPER': 765.0, 'CFX': 6605.0, 'TKO': 3851.0, 'PUNDIX': 1815.0, 'TLM': 18446.0, 'BAR': 486.0, 'FORTH': 213.0, 'BAKE': 5002.0, 'SHIB': 18446.0, 'ICP': 103.0, 'AR': 96.0, 'MASK': 424.0, 'LPT': 82.0, 'ATA': 11907.0, 'GTC': 2173.0, 'MLN': 71.0, 'DEXE': 67.0, 'C98': 11900.0, 'QNT': 4.0, 'FLOW': 1552.0, 'MINA': 2945.0, 'RAY': 244.0, 'FARM': 19.0, 'QUICK': 18446.0, 'MBOX': 10443.0, 'GHST': 1388.0, 'WAXP': 18446.0, 'GNO': 4.0, 'XEC': 18446.0, 'DYDX': 969.0, 'IDEX': 18446.0, 'USDP': 500.0, 'GALA': 18446.0, 'ILV': 47.0, 'YGG': 3431.0, 'DF': 17362.0, 'FIDA': 6302.0, 'AGLD': 745.0, 'RAD': 807.0, 'RARE': 9999.0, 'SSV': 69.0, 'LAZIO': 691.0, 'CHESS': 6254.0, 'MOVR': 93.0, 'CITY': 606.0, 'ENS': 27.0, 'QI': 18446.0, 'PORTO': 680.0, 'JASMY': 18446.0, 'AMP': 18446.0, 'PYR': 557.0, 'ALCX': 68.0, 'SANTOS': 269.0, 'BICO': 5506.0, 'FLUX': 2536.0, 'FXS': 252.0, 'VOXEL': 11063.0, 'HIGH': 980.0, 'CVX': 222.0, 'PEOPLE': 18446.0, 'SPELL': 18446.0, 'JOE': 3508.0, 'ACH': 18446.0, 'IMX': 1146.0, 'GLMR': 8051.0, 'LOKA': 10618.0, 'API3': 825.0, 'BTTC': 18446.0, 'ACA': 18446.0, 'XNO': 581.0, 'WOO': 7552.0, 'ALPINE': 737.0, 'T': 18446.0, 'ASTR': 18446.0, 'GMT': 11600.0, 'KDA': 1296.0, 'APE': 826.0, 'BSW': 18446.0, 'BIFI': 3.0, 'NEXO': 416.0, 'REI': 18446.0, 'LDO': 693.0, 'OP': 923.0, 'LEVER': 18446.0, 'STG': 3335.0, 'LUNC': 18446.0, 'GMX': 36.0, 'POLYX': 4098.0, 'APT': 109.0, 'PLN': 18466.0, 'OSMO': 3544.0, 'HFT': 3618.0, 'HOOK': 5363.0, 'MAGIC': 4017.0, 'HIFI': 3781.0, 'RPL': 100.0, 'RON': 18466.0, 'GNS': 308.0, 'SYN': 5413.0, 'LQTY': 381.0, 'USTC': 18446.0, 'PROM': 77.0, 'QKC': 18446.0, 'ID': 3266.0, 'ARB': 1466.0, 'RDNT': 18446.0, 'ARS': 18466.0, 'EDU': 3825.0, 'SUI': 180.0, 'PEPE': 18446.0, 'FLOKI': 18446.0, 'WBETH': 1.0, 'MAV': 9992.0, 'PENDLE': 146.0, 'ARKM': 1102.0, 'WLD': 562.0, 'FDUSD': 10000.0, 'SEI': 1789.0, 'CYBER': 418.0, 'ARK': 1390.0, 'IQ': 18446.0, 'NTRN': 5868.0, 'TIA': 345.0, 'MEME': 18446.0, 'ORDI': 68.0, 'BEAMX': 18446.0, 'VIC': 3152.0, 'BLUR': 7124.0, 'VANRY': 18446.0, 'AEUR': 440.0, 'JTO': 239.0, '1000SATS': 18446.0, 'BONK': 18446.0, 'ACE': 994.0, 'NFP': 9058.0, 'AI': 4623.0, 'XAI': 10036.0, 'MANTA': 2717.0, 'ALT': 18446.0, 'JUP': 1137.0, 'PYTH': 4873.0, 'RONIN': 1136.0, 'DYM': 2222.0, 'PIXEL': 15685.0, 'STRK': 4382.0, 'PORTAL': 13621.0, 'AXL': 1566.0, 'WIF': 618.0, 'METIS': 32.0, 'JPY': 18466.0, 'AEVO': 6104.0, 'BOME': 18446.0, 'ETHFI': 528.0, 'ENA': 1911.0, 'W': 7028.0, 'TNSR': 4371.0, 'SAGA': 2429.0, 'MXN': 18466.0, 'TAO': 1.0, 'OMNI': 324.0, 'REZ': 18446.0, 'BB': 6188.0, 'NOT': 18446.0, 'COP': 18466.0, 'IO': 705.0, 'ZK': 10960.0, 'LISTA': 2136.0, 'ZRO': 260.0, 'G': 18446.0, 'BANANA': 29.0, 'RENDER': 158.0, 'TON': 177.0, 'DOGS': 18446.0, 'EURI': 425.0, 'SLF': 6134.0, 'POL': 2761.0, 'NEIRO': 18446.0, 'TURBO': 18446.0, '1MBABYDOGE': 18446.0, 'CATI': 6421.0, 'HMSTR': 18446.0, 'EIGEN': 454.0, 'BNSOL': 3.0, 'SCR': 2016.0, 'LUMIA': 2154.0, 'KAIA': 3124.0, 'COW': 1832.0, 'CETUS': 5609.0, 'PNUT': 2283.0, 'ACT': 12690.0, 'USUAL': 7928.0, 'THE': 1932.0, 'ACX': 3775.0, 'ORCA': 261.0, 'MOVE': 2962.0, 'ME': 694.0, 'VELODROME': 11169.0, 'VANA': 115.0, '1000CAT': 18446.0, 'PENGU': 18446.0, 'BIO': 9799.0, 'D': 16359.0, 'AIXBT': 3897.0, 'CGPT': 5444.0, 'COOKIE': 3081.0, 'S': 1585.0, 'SOLV': 11136.0, 'TRUMP': 57.0, 'ANIME': 18446.0, 'BERA': 296.0, '1000CHEEMS': 18446.0, 'TST': 12018.0, 'LAYER': 792.0, 'HEI': 1827.0, 'KAITO': 323.0, 'SHELL': 3440.0, 'RED': 1694.0, 'GPS': 18446.0, 'EPIC': 586.0, 'BMT': 3640.0, 'FORM': 171.0, 'XUSD': 500.0, 'CZK': 18466.0, 'NIL': 1751.0, 'PARTI': 2389.0, 'MUBARAK': 13228.0, 'TUT': 8069.0, 'BROCCOLI714': 11845.0, 'BANANAS31': 18446.0, 'GUN': 18446.0, 'BABY': 10689.0, 'ONDO': 652.0, 'BIGTIME': 9865.0, 'VIRTUAL': 337.0, 'KERNEL': 4553.0, 'WCT': 1635.0, 'HYPER': 4856.0, 'INIT': 1219.0, 'SIGN': 7507.0, 'STO': 7201.0, 'SYRUP': 907.0, 'KMNO': 8451.0, 'SXT': 6754.0, 'NXPC': 538.0, 'AWE': 8766.0, 'HAEDAL': 4201.0, 'USD1': 500.0, 'HUMA': 15115.0, 'A': 1037.0, 'SOPH': 16098.0, 'RESOLV': 3634.0, 'HOME': 18446.0, 'SPK': 14060.0, 'NEWT': 1486.0, 'SAHARA': 6582.0}}, 'bybit': {'free': {'BTC': 0.43531589, 'ETH': 4.90521959, 'USDT': 76.24837047}, 'used': {'BTC': 0.0, 'ETH': 0.0, 'USDT': 0.0}, 'total': {'BTC': 0.43531589, 'ETH': 4.90521959, 'USDT': 76.24837047}}}
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Connecting to WebSocket for binance...
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Connected to WebSocket for binance.
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Connecting to WebSocket for bybit...
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Connected to WebSocket for bybit.
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribing to BTC/USDT on binance...
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribed to BTC/USDT on binance.
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribing to ETH/USDT on binance...
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribed to ETH/USDT on binance.
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribing to BTC/USDT on bybit...
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribed to BTC/USDT on bybit.
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribing to ETH/USDT on bybit...
+2025-07-29 19:39:16,441 - websocket_manager - INFO - Subscribed to ETH/USDT on bybit.
+2025-07-29 19:39:16,441 - websocket_manager - INFO - WebSocket Manager started.
+2025-07-29 19:39:16,441 - arbitrage_bot - INFO - Bot initialization complete.
+2025-07-29 19:39:16,441 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-07-29 19:39:16,441 - arbitrage_bot - INFO - Bot already initialized.
+2025-07-29 19:39:16,441 - monitoring - INFO - Starting monitoring system...
+2025-07-29 19:39:16,459 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 92.4%
+2025-07-29 19:39:16,459 - price_monitor - INFO - Starting price monitoring...
+2025-07-29 19:39:23,390 - monitoring - INFO - Sent email alert: Memory usage is 92.4%
+2025-07-29 19:39:23,419 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 93.4%
+2025-07-29 19:39:28,335 - monitoring - INFO - Sent email alert: Memory usage is 93.4%
+2025-07-29 19:39:28,358 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.4%
+2025-07-29 19:39:32,572 - monitoring - INFO - Sent email alert: Memory usage is 94.4%
+2025-07-29 19:39:32,597 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.0%
+2025-07-29 19:39:36,816 - monitoring - INFO - Sent email alert: Memory usage is 94.0%
+2025-07-29 19:39:36,832 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.1%
+2025-07-29 19:39:41,038 - monitoring - INFO - Sent email alert: Memory usage is 94.1%
+2025-07-29 19:39:41,058 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.1%
+2025-07-29 19:39:45,435 - monitoring - INFO - Sent email alert: Memory usage is 94.1%
+2025-07-29 19:39:45,455 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.4%
+2025-07-29 19:39:49,564 - monitoring - INFO - Sent email alert: Memory usage is 94.4%
+2025-07-29 19:39:49,585 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.6%
+2025-07-29 19:39:53,802 - monitoring - INFO - Sent email alert: Memory usage is 94.6%
+2025-07-29 19:39:53,826 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 95.0%
+2025-07-29 19:39:58,001 - monitoring - INFO - Sent email alert: Memory usage is 95.0%
+2025-07-29 19:39:58,001 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8337606771:AAEuNeYeASDuVutgAnDXrvvFqPCJPYnV_nE/sendMessage "HTTP/1.1 200 OK"
+2025-07-29 19:39:58,020 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 94.7%
+2025-07-29 19:39:58,020 - monitoring - INFO - Successfully sent Telegram alert: Memory usage is 92.4%
+2025-07-29 19:40:02,184 - monitoring - INFO - Sent email alert: Memory usage is 94.7%
+2025-07-29 19:40:02,184 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8337606771:AAEuNeYeASDuVutgAnDXrvvFqPCJPYnV_nE/sendMessage "HTTP/1.1 200 OK"
+2025-07-29 19:40:02,202 - monitoring - WARNING - ALERT (WARNING) - System: Memory usage is 95.0%
+2025-07-29 19:40:05,149 - __main__ - INFO - Received signal 2. Initiating shutdown...
+2025-07-29 19:40:05,579 - __main__ - INFO - Received signal 2. Initiating shutdown...
+2025-07-29 19:40:07,051 - monitoring - INFO - Sent email alert: Memory usage is 95.0%
+2025-07-29 19:40:07,052 - monitoring - INFO - Successfully sent Telegram alert: Memory usage is 93.4%
+2025-07-29 19:40:07,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot8337606771:AAEuNeYeASDuVutgAnDXrvvFqPCJPYnV_nE/sendMessage "HTTP/1.1 200 OK"
+2025-07-29 19:40:07,068 - arbitrage_bot - INFO - Bot shutdown initiated.
+2025-07-29 19:40:07,069 - arbitrage_bot - INFO - Stopping Crypto Arbitrage Bot...
+2025-07-29 19:40:07,069 - monitoring - INFO - Stopping monitoring system...
+2025-07-29 19:40:07,073 - arbitrage_bot - INFO - Crypto Arbitrage Bot stopped.
+2025-07-29 19:40:07,073 - arbitrage_bot - INFO - Bot run_forever completed.
+2025-07-29 19:40:07,073 - __main__ - INFO - Bot shutdown complete.
+2025-08-04 20:33:01,347 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 20:33:01,347 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 20:33:01,347 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 20:33:01,347 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 20:33:01,347 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:33:01,347 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 20:33:01,347 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 20:33:01,347 - exchange_manager - WARNING - Skipping binance: Missing API credentials
+2025-08-04 20:33:01,347 - exchange_manager - WARNING - Skipping bybit: Missing API credentials
+2025-08-04 20:33:01,348 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 20:33:01,348 - safety_manager - INFO - Initial balances: {}
+2025-08-04 20:33:01,348 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 20:33:01,348 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:33:01,348 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 20:33:01,348 - monitoring - INFO - Starting monitoring system...
+2025-08-04 20:33:01,348 - websocket_manager - INFO - WebSocket Manager started for all configured exchanges.
+2025-08-04 20:33:01,348 - price_monitor - INFO - Starting price monitoring, websocket_manager: <websocket_manager.WebSocketManager object at 0x7f600b40e6d0>
+2025-08-04 20:33:30,671 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 20:33:31,380 - arbitrage_bot - INFO - Bot shutdown initiated.
+2025-08-04 20:33:31,380 - arbitrage_bot - INFO - Stopping Crypto Arbitrage Bot...
+2025-08-04 20:33:31,380 - monitoring - INFO - Stopping monitoring system...
+2025-08-04 20:33:31,380 - websocket_manager - INFO - Stopping WebSocket Manager...
+2025-08-04 20:33:31,380 - websocket_manager - INFO - WebSocket Manager stopped.
+2025-08-04 20:33:31,380 - arbitrage_bot - INFO - Crypto Arbitrage Bot stopped.
+2025-08-04 20:33:31,380 - arbitrage_bot - INFO - Bot run_forever completed.
+2025-08-04 20:34:41,616 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 20:34:41,616 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 20:34:41,616 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 20:34:41,616 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 20:34:41,616 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:34:41,617 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 20:34:41,617 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 20:34:41,627 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 20:34:42,709 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 20:34:42,709 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 20:34:42,716 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:34:42,731 - exchange_manager - ERROR - Failed to initialize bybit: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: lFx8pyV3Zc8v62DeT6v2PTVEG5nMUY78GxBE0y1DH-wlJ7K4K96lVQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:34:42,731 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 20:34:43,062 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 20:34:43,062 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 20:34:43,062 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 20:34:43,062 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:34:43,062 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 20:34:43,062 - monitoring - INFO - Starting monitoring system...
+2025-08-04 20:34:43,072 - websocket_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 20:34:43,073 - websocket_manager - INFO - Initialized CCXT client for binance.
+2025-08-04 20:34:43,078 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:34:43,079 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:34:43,198 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: UqDD6rf-YuBc49D2vqiJwRhg_lNpBcVRy1g91skOAGfjnjZqWq4zZA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:34:44,378 - websocket_manager - ERROR - Error watching ticker for BTCUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:44,378 - websocket_manager - ERROR - Error watching ticker for ETHUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:44,378 - websocket_manager - INFO - WebSocket Manager started for all configured exchanges.
+2025-08-04 20:34:44,378 - price_monitor - INFO - Starting price monitoring, websocket_manager: <websocket_manager.WebSocketManager object at 0x7f0a1cbffad0>
+2025-08-04 20:34:49,379 - websocket_manager - ERROR - Error watching ticker for BTCUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:49,379 - websocket_manager - ERROR - Error watching ticker for ETHUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:54,380 - websocket_manager - ERROR - Error watching ticker for BTCUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:54,380 - websocket_manager - ERROR - Error watching ticker for ETHUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:59,381 - websocket_manager - ERROR - Error watching ticker for BTCUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:34:59,381 - websocket_manager - ERROR - Error watching ticker for ETHUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:35:04,382 - websocket_manager - ERROR - Error watching ticker for BTCUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:35:04,382 - websocket_manager - ERROR - Error watching ticker for ETHUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:35:09,383 - websocket_manager - ERROR - Error watching ticker for BTCUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:35:09,384 - websocket_manager - ERROR - Error watching ticker for ETHUSDT on binance: binance watchTicker() is not supported yet
+2025-08-04 20:35:11,009 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 20:35:11,408 - arbitrage_bot - INFO - Bot shutdown initiated.
+2025-08-04 20:35:11,408 - arbitrage_bot - INFO - Stopping Crypto Arbitrage Bot...
+2025-08-04 20:35:11,408 - monitoring - INFO - Stopping monitoring system...
+2025-08-04 20:35:11,408 - websocket_manager - INFO - Stopping WebSocket Manager...
+2025-08-04 20:35:11,659 - websocket_manager - INFO - Closed CCXT WebSocket client for binance.
+2025-08-04 20:35:11,911 - websocket_manager - INFO - Closed CCXT WebSocket client for bybit.
+2025-08-04 20:35:11,911 - websocket_manager - INFO - WebSocket Manager stopped.
+2025-08-04 20:35:11,911 - arbitrage_bot - INFO - Crypto Arbitrage Bot stopped.
+2025-08-04 20:35:11,911 - arbitrage_bot - INFO - Bot run_forever completed.
+2025-08-04 20:38:19,286 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 20:38:19,286 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 20:38:19,286 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 20:38:19,286 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 20:38:19,286 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:38:19,286 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 20:38:19,286 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 20:38:19,297 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 20:38:20,863 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 20:38:20,864 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 20:38:20,873 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:38:20,887 - exchange_manager - ERROR - Failed to initialize bybit: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: -H35qBOpb01sCD_85wO89Cw2dbPI24qTizX7OUZdI7488_QIZtTLnw==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:38:20,887 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 20:38:21,225 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 20:38:21,225 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 20:38:21,225 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 20:38:21,225 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:38:21,225 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 20:38:21,225 - monitoring - INFO - Starting monitoring system...
+2025-08-04 20:38:21,226 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://testnet.binance.vision/ws/!ticker@arr
+2025-08-04 20:38:21,286 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:38:21,286 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:38:21,365 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: dDWSM1mVabwdMQ69uHZosFW8MF5T8ydg6PG4ikfoAR1iRkuUowSMzA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:38:21,811 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:38:27,260 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:38:32,722 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:38:38,158 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:38:43,613 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:38:48,662 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 20:38:49,074 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:38:54,535 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:39:00,006 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:39:05,475 - websocket_manager - ERROR - Binance native WebSocket error: server rejected WebSocket connection: HTTP 404. Reconnecting in 5 seconds...
+2025-08-04 20:39:13,423 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 20:39:13,423 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 20:39:13,423 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 20:39:13,423 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 20:39:13,423 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:39:13,423 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 20:39:13,423 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 20:39:13,433 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 20:39:15,516 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 20:39:15,517 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 20:39:15,523 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:39:15,537 - exchange_manager - ERROR - Failed to initialize bybit: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: c4UYuie4SQUmUr0ZL8bbaHdOggl6J9h-3o_nC_ljnE8z4GuiE8PVOQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:39:15,537 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 20:39:15,875 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 20:39:15,875 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 20:39:15,875 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 20:39:15,875 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:39:15,876 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 20:39:15,876 - monitoring - INFO - Starting monitoring system...
+2025-08-04 20:39:15,876 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 20:39:15,893 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:39:15,893 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:39:15,958 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: K1_kLRFWXBfhUGIBYNWVoyDoeNEllbSve35zcLOD2-qw-iXG19eAwg==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:39:16,620 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 20:39:42,843 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 20:40:48,033 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 20:40:48,033 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 20:40:48,033 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 20:40:48,033 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 20:40:48,034 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:40:48,034 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 20:40:48,034 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 20:40:48,044 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 20:40:49,815 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 20:40:49,816 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 20:40:49,822 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:40:49,837 - exchange_manager - ERROR - Failed to initialize bybit: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: 037TNhfEr0YKuFKFp_CKLQot2mLSveJUPSkTtoHjBtdnQywiaykFhw==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 20:40:49,837 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 20:40:50,174 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 20:40:50,174 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 20:40:50,174 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 20:40:50,174 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 20:40:50,174 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 20:40:50,174 - monitoring - INFO - Starting monitoring system...
+2025-08-04 20:40:50,175 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 20:40:50,191 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:40:50,192 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:40:50,263 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 1/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: FVcwKqDHMaiRscsMnHh3WMBWEUe1tdxMWrcV5rwOA_YQ-sTbKLJLtA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 2 seconds...
+2025-08-04 20:40:50,781 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 20:40:52,270 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:40:52,270 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 20:40:52,270 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f4134f51610>
+2025-08-04 20:40:52,271 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f4135309780>, 62619.920339725)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f41399e8a10>
+2025-08-04 20:40:52,271 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:40:52,334 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 2/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: A2MJ5QWchBoz0xYHN6W0kPjKRV12GVCtdMW1-RoZbzuYCVUolulYnw==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 4 seconds...
+2025-08-04 20:40:56,342 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:40:56,342 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 20:40:56,342 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f4134dc7d50>
+2025-08-04 20:40:56,342 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f4135309860>, 62621.991530318)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f41379997d0>
+2025-08-04 20:40:56,342 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:40:56,417 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 3/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: G8ey6Vu3SBb7yyN2qauqt_w7HhLqWOrmyH6b8FTWtY3DVMTaJ1H0jQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 8 seconds...
+2025-08-04 20:41:04,425 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:41:04,425 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 20:41:04,425 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f4134f44a10>
+2025-08-04 20:41:04,425 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f41353097f0>, 62626.074823235)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f4139915f50>
+2025-08-04 20:41:04,425 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:41:04,489 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 4/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: fGLZQQypnJf7PQIX6CJmuP5o9QJny61fX4763bLpD5kGuMZjDMve6A==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 16 seconds...
+2025-08-04 20:41:17,446 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 20:41:20,497 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 20:41:20,497 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 20:41:20,497 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f41352e1090>
+2025-08-04 20:41:20,499 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 20:41:20,565 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 5/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: 7CXsklw-5hTjHx8sNZTvGE34xs93YqmROJkJ1_komlG8C-JO7ARp5g==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 32 seconds...
+2025-08-04 20:41:52,567 - websocket_manager - CRITICAL - Failed to connect to bybit WebSocket after 5 attempts. Please check API keys and network access.
+2025-08-04 21:21:25,873 - websocket_manager - ERROR - Binance native WebSocket error: no close frame received or sent. Reconnecting in 5 seconds...
+2025-08-04 21:21:31,510 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:23:00,591 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 21:23:00,591 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 21:23:00,591 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 21:23:00,591 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 21:23:00,592 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:23:00,592 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 21:23:00,592 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 21:23:00,601 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 21:23:01,929 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 21:23:01,930 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 21:23:01,936 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:01,948 - exchange_manager - ERROR - Failed to initialize bybit: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: 545OdSmY8gmatdWStEFNSJzk7pXL-loBQmx9MWoWQylD4p2oQaz7vA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 21:23:01,948 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 21:23:02,284 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 21:23:02,285 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 21:23:02,285 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 21:23:02,285 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:23:02,285 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 21:23:02,285 - monitoring - INFO - Starting monitoring system...
+2025-08-04 21:23:02,286 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:23:02,302 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:02,302 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:02,366 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 1/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: s1lKs0DLnx5vP_mgIA8USRxAUtKfwjonNow0-ZRFR4Y-8fDsaYYAZQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 2 seconds...
+2025-08-04 21:23:02,869 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:23:04,374 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:04,374 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:23:04,374 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f94b1741c50>
+2025-08-04 21:23:04,375 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f94abba9710>, 65152.097867378)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f94b1742290>
+2025-08-04 21:23:04,375 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:04,436 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 2/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: OL8kzLN-xrgrpc4Bw_Vr52nkSrEGavA1Hg7s5YxZ5LzbWY8LhAUJJQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 4 seconds...
+2025-08-04 21:23:08,444 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:08,444 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:23:08,444 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f94b2617fd0>
+2025-08-04 21:23:08,445 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f94abba97f0>, 65154.168416237)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f94abe10350>
+2025-08-04 21:23:08,445 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:08,506 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 3/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: aBXHOxfL0e76EfE2_ms0v58UWoY3HLtv75kST4fX9La4xcHLFiqgyA==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 8 seconds...
+2025-08-04 21:23:16,514 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:16,514 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:23:16,514 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f94b416bed0>
+2025-08-04 21:23:16,515 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f94abba9780>, 65158.238498082)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f94abfe4d10>
+2025-08-04 21:23:16,515 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:16,576 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 4/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: Ssd0qyQDqSULIgPlyMKbgzHw4CJGd6KEQAD8H8FVAisOaAmLrglMVQ==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 16 seconds...
+2025-08-04 21:23:29,990 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 21:23:32,584 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:32,585 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:23:32,585 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f94b42ab2d0>
+2025-08-04 21:23:32,586 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:32,647 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 5/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: N0kvjqN9BVJPUHNTh5U1-Bp3Dcze0S6kr8L2dUacG1lFRQ5r9eOERw==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 32 seconds...
+2025-08-04 21:23:43,993 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 21:23:43,993 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 21:23:43,993 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 21:23:43,993 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 21:23:43,993 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:23:43,993 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 21:23:43,993 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 21:23:44,003 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 21:23:46,414 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 21:23:46,415 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 21:23:46,422 - exchange_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:46,436 - exchange_manager - ERROR - Failed to initialize bybit: bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: QlVtb5Mn6XBjoOFQX1Wn6rPs7jRsUikD2PVvPWmZhW8v0x66uwcxtg==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>
+2025-08-04 21:23:46,436 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 21:23:47,073 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 21:23:47,074 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 21:23:47,074 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 21:23:47,074 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:23:47,074 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 21:23:47,074 - monitoring - INFO - Starting monitoring system...
+2025-08-04 21:23:47,075 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:23:47,091 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:47,091 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:47,151 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 1/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: G17EcamykBOTbNfVVOwVBeCz7sVwwH55nka5ATftM28tcsJVJ1NoLg==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 2 seconds...
+2025-08-04 21:23:47,733 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:23:49,160 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:49,160 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:23:49,160 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f54f6d99610>
+2025-08-04 21:23:49,160 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f54f6e09710>, 65196.883413021)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f54ff80f4d0>
+2025-08-04 21:23:49,160 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:49,224 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 2/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: fn6bRuDVzwURciQw-lnp1TGzTKgZ7NVctEEIZ--YK8gZsKXfFUdsng==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 4 seconds...
+2025-08-04 21:23:53,232 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:23:53,232 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:23:53,232 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f54f6c0af50>
+2025-08-04 21:23:53,233 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f54f6e097f0>, 65198.955971809)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f54fd56e0d0>
+2025-08-04 21:23:53,233 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:23:53,299 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 3/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: JFW2g22e-nA-D-3pYjrQUp_yZbSQagcDIQYI5lLiXA5-oSHdhUHFvg==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 8 seconds...
+2025-08-04 21:24:01,307 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:24:01,307 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:24:01,308 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f54f6d8ebd0>
+2025-08-04 21:24:01,308 - asyncio - ERROR - Unclosed connector
+connections: ['deque([(<aiohttp.client_proto.ResponseHandler object at 0x7f54f6e09780>, 65203.031023025)])']
+connector: <aiohttp.connector.TCPConnector object at 0x7f54ff80e510>
+2025-08-04 21:24:01,308 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:24:01,369 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 4/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: l5z8cvMKIedp4LifQHuQV51GQIUPDH0d6LKqptt2pvG0qOsGX3UD_g==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 16 seconds...
+2025-08-04 21:24:17,377 - websocket_manager - INFO - Set bybit to SANDBOX mode.
+2025-08-04 21:24:17,377 - ccxt.base.exchange - WARNING - bybit requires to release all resources with an explicit call to the .close() coroutine. If you are using the exchange instance with async coroutines, add `await exchange.close()` to your code into a place when you're done with the exchange and don't need the exchange instance anymore (at the end of your async coroutine).
+2025-08-04 21:24:17,377 - asyncio - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7f54fd56e5d0>
+2025-08-04 21:24:17,379 - websocket_manager - INFO - Initialized CCXT client for bybit.
+2025-08-04 21:24:17,456 - websocket_manager - ERROR - Failed to connect or subscribe to bybit WebSocket (Attempt 5/5): bybit GET https://api-testnet.bybit.com/v5/asset/coin/query-info? 403 Forbidden <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML><HEAD><META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<TITLE>ERROR: The request could not be satisfied</TITLE>
+</HEAD><BODY>
+<H1>403 ERROR</H1>
+<H2>The request could not be satisfied.</H2>
+<HR noshade size="1px">
+The Amazon CloudFront distribution is configured to block access from your country.
+We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.
+<BR clear="all">
+If you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.
+<BR clear="all">
+<HR noshade size="1px">
+<PRE>
+Generated by cloudfront (CloudFront)
+Request ID: 7d6aqOrCu8Yr4sEckaHB-kmwMd2au7GpOtTREfVGDmkOmWX9X6wubw==
+</PRE>
+<ADDRESS>
+</ADDRESS>
+</BODY></HTML>. Retrying in 32 seconds...
+2025-08-04 21:24:43,436 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-04 21:24:49,457 - websocket_manager - CRITICAL - Failed to connect to bybit WebSocket after 5 attempts. Please check API keys and network access.
+2025-08-04 21:25:13,855 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 21:25:13,856 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 21:25:13,856 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 21:25:13,856 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 21:25:13,856 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:25:13,856 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 21:25:13,856 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 21:25:13,866 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 21:25:15,510 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 21:25:15,511 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 21:25:15,511 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 21:25:15,865 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 21:25:15,865 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 21:25:15,865 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 21:25:15,865 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:25:15,865 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 21:25:15,865 - monitoring - INFO - Starting monitoring system...
+2025-08-04 21:25:15,866 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:25:16,487 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:25:58,832 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-04 21:25:58,832 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-04 21:25:58,832 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-04 21:25:58,832 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-04 21:25:58,832 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:25:58,832 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-04 21:25:58,832 - exchange_manager - INFO - Initializing exchanges...
+2025-08-04 21:25:58,842 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-04 21:26:00,196 - exchange_manager - INFO - Loaded 2061 markets for binance
+2025-08-04 21:26:00,197 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-04 21:26:00,197 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-04 21:26:00,548 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-04 21:26:00,548 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-04 21:26:00,548 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-04 21:26:00,548 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-04 21:26:00,548 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-04 21:26:00,548 - monitoring - INFO - Starting monitoring system...
+2025-08-04 21:26:00,549 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:26:01,186 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-04 21:27:58,267 - __main__ - INFO - Received signal 15. Initiating shutdown...
+2025-08-05 11:47:47,350 - arbitrage_bot - INFO - Logging configured. Level: INFO, File: arbitrage_bot.log
+2025-08-05 11:47:47,351 - arbitrage_bot - INFO - WebSocketManager set on ArbitrageBot.
+2025-08-05 11:47:47,351 - price_monitor - INFO - WebSocketManager has been set on PriceMonitor!
+2025-08-05 11:47:47,351 - arbitrage_bot - INFO - WebSocketManager set on PriceMonitor.
+2025-08-05 11:47:47,351 - __main__ - INFO - Starting Crypto Arbitrage Bot...
+2025-08-05 11:47:47,351 - arbitrage_bot - INFO - Initializing bot components...
+2025-08-05 11:47:47,351 - exchange_manager - INFO - Initializing exchanges...
+2025-08-05 11:47:47,362 - exchange_manager - INFO - Set binance to SANDBOX mode.
+2025-08-05 11:47:49,601 - exchange_manager - INFO - Loaded 2064 markets for binance
+2025-08-05 11:47:49,602 - exchange_manager - WARNING - Could not fetch trading fees for binance: binance does not have a testnet/sandbox URL for sapi endpoints. Using default from config.
+2025-08-05 11:47:49,602 - safety_manager - INFO - Initializing safety manager with current balances...
+2025-08-05 11:47:49,955 - exchange_manager - ERROR - Failed to fetch all balances for binance: binance {"code":-2014,"msg":"API-key format invalid."}
+2025-08-05 11:47:49,955 - safety_manager - INFO - Initial balances: {'binance': {'error': 'binance {"code":-2014,"msg":"API-key format invalid."}'}}
+2025-08-05 11:47:49,955 - arbitrage_bot - INFO - Bot initialization complete.
+2025-08-05 11:47:49,955 - arbitrage_bot - INFO - Starting Crypto Arbitrage Bot...
+2025-08-05 11:47:49,955 - arbitrage_bot - INFO - Bot already initialized.
+2025-08-05 11:47:49,955 - monitoring - INFO - Starting monitoring system...
+2025-08-05 11:47:49,956 - websocket_manager - INFO - Connecting to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
+2025-08-05 11:47:50,566 - websocket_manager - INFO - Connected to Binance native WebSocket: wss://stream.testnet.binance.vision/ws/!ticker@arr
